@@ -1,3 +1,0 @@
-[submodule "sub-module-repo"]
-	path = sub-module-repo
-	url = https://github.com/HectorBright/sub-module-repo.git
